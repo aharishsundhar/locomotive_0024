@@ -1,0 +1,7 @@
+{
+  "name": "locomotive",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
